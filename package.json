@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "glob": "^7.2.0",
+    "simpleen": "^0.5.1",
+    "translate-markdown": "^1.1.0"
+  }
+}

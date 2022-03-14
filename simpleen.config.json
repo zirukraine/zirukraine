@@ -1,0 +1,12 @@
+{
+    "source_language": "RU",
+    "target_languages": [
+        "EN-US",
+        "cs",
+        "RU"
+    ],
+    "interpolation": "i18next",
+    "input_path": "./ru/*.md",
+    "output_path": "./$locale/",
+    "auth_key": "17c60048-30e1-4725-a2fc-f2ca5dc8cc34"
+}
