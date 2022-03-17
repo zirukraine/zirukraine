@@ -15,19 +15,19 @@
 
 Нарисовано на экране Телефона вставленного в [Пульт Управления Дроном](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone_station1.png)
 
- - [ ] [Apple Maps вид сверху](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/map1.png) 
+ - [ ] [Apple Maps вид сверху](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/map1.jpg) 
  - [ ] Термо наложено
  - [ ] Маркеры людей и танков
 
  ![Пульт Управления Дроном](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone_station1.png)
- ![Apple Maps вид сверху](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/map1.png) 
+ ![Apple Maps вид сверху](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/map1.jpg) 
 
 ## Приложение в руке солдата который одет в хололенсы
 
 
- - [ ] [Apple Maps AR вид](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/map2.png)
+ - [ ] [Apple Maps AR вид](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/map2.jpg)
  - [ ] Полупрозрачно, вписано в вид с камеры
  - [ ] Термо наложено
  - [ ] Маркеры людей и танков
 
- ![Apple Maps AR вид](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/map2.png)
+ ![Apple Maps AR вид](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/map2.jpg)
