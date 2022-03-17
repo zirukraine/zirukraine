@@ -4,8 +4,7 @@
 
 Černá a bílá, klipartový styl. Vytištěno na 1 x 1 cm by mělo vypadat dobře
 
-Bohyně vítězství s křídly a zdviženým mečem. Na hlavě má [přilbu](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png) s brýlemi pro RR. U jejích nohou se vznáší - [kvadrokoptéra](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)
-
+Bohyně vítězství s křídly a zdviženým mečem. Na hlavě má přilbu s brýlemi pro AR. U jejích nohou se vznáší - Kvadrokoptéra
 
 ![Шлем c AR очками](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png)
 ![Квадкоптер](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)

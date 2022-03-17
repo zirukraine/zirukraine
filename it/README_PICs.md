@@ -4,8 +4,7 @@
 
 Bianco e nero, stile clip art. Dovrebbe avere un bell'aspetto stampato su 1 x 1 cm
 
-Dea della vittoria con le ali e una spada alzata. Sulla sua testa c'è un [Casco](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png) con occhiali AR. Ai suoi piedi, in bilico - [Quadcopter](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)
-
+Dea della vittoria con le ali e una spada alzata. Sulla sua testa c'è un casco con occhiali AR. Ai suoi piedi, in bilico - Quadricottero
 
 ![Шлем c AR очками](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png)
 ![Квадкоптер](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)

@@ -4,8 +4,7 @@
 
 Schwarz und weiß, ClipArt-Stil. Soll gedruckt auf 1 x 1 cm gut aussehen
 
-Siegesgöttin mit Flügeln und erhobenem Schwert. Auf ihrem Kopf trägt sie einen [Helm](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png) mit AR-Brille. Zu ihren Füßen schwebend – [Quadcopter](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)
-
+Siegesgöttin mit Flügeln und erhobenem Schwert. Auf ihrem Kopf ist ein Helm mit AR-Brille. Zu ihren Füßen schwebend - Quadcopter
 
 ![Шлем c AR очками](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png)
 ![Autor](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)

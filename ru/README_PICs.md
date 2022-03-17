@@ -4,8 +4,7 @@
 
 Черно белый, clip art style. Должен смотрется хорошо распечатанный на 1 х 1 см
 
-Богиня победы с крылами и воздетым мечем. На ее голове - [Шлем](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png) с AR очками. У ее ног, парящий - [Квадкоптер](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)
-
+Богиня победы с крылами и воздетым мечем. На ее голове - Шлем с AR очками. У ее ног, парящий - Квадкоптер
 
 ![Шлем c AR очками](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png)
 ![Квадкоптер](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)

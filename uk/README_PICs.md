@@ -4,8 +4,7 @@
 
 Чорно білий, clip art style. Повинен виглядати добре надрукований на 1 х 1 см
 
-Богиня перемоги з крилами та піднесеним мечем. На її голові – [Шолом] (https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png) з AR окулярами. У її ніг, що ширяє - [Квадкоптер](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)
-
+Богиня перемоги з крилами та піднесеним мечем. На її голові – Шолом з AR окулярами. Біля її ніг, ширяючий - Квадкоптер
 
 ![Шлем c AR очками](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png)
 ![Квадкоптер](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)

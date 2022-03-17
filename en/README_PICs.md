@@ -4,8 +4,7 @@
 
 Black and white, clip art style. Should look good printed on 1 x 1 cm
 
-Goddess of victory with wings and a raised sword. On her head is a [Helmet](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png) with AR glasses. At her feet, hovering - [Quadcopter](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)
-
+Goddess of victory with wings and a raised sword. On her head is a Helmet with AR goggles. At her feet, hovering - Quadcopter
 
 ![Шлем c AR очками](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/helmet1.png)
 ![Квадкоптер](https://github.com/zirukraine/zirukraine/raw/main/IMAGES/drone2.png)
